@@ -1,0 +1,12 @@
+transformers
+torch
+sentencepiece
+spacy
+pytube
+youtube-transcript-api
+textwrap3
+pybase64
+nltk
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
+deep_translator
+gTTS
